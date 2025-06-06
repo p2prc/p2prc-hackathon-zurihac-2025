@@ -8,10 +8,14 @@ We will challenge ourselves to build a P2PRC process which consists of the follo
 
 ### Process structure: 
 1. Task to run: Could be anything from a docker container to a bash script.
-2. Sender node: Node which sends the process (Usually semantically identified as <host name>-<unique uuid>).
+2. Sender node: Node which sends the process (Usually semantically identified as \<host name>\-\<unique uuid>\).
 3. Receiver node: Node to whom the task is for. 
 4. Kill Task: Script required to kill this process. 
-5. Response message: Response when either the process is started or killed. 
+5. Response message: Response when either the process is started or killed.
+
+## Setup:
+- P2PRC haskell bindings with nix: https://p2prc.akilan.io/#orgd344c6a
+- P2PRC haskell bindings using Makefile: https://p2prc.akilan.io/#org302f45e
 
 ## References:
 - P2PRC source code: https://github.com/Akilan1999/p2p-rendering-computation
