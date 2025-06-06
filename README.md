@@ -14,9 +14,9 @@ We will challenge ourselves to build a P2PRC process which consists of the follo
 5. Response message: Response when either the process is started or killed. 
 
 ## References:
-P2PRC source code: https://github.com/Akilan1999/p2p-rendering-computation
-Haskell bindings: https://github.com/Akilan1999/p2p-rendering-computation/tree/master/Bindings/Haskell
-Haskell bindings documentation: https://p2prc.akilan.io/haskell/P2PRC.html
-Documentation reference: https://github.com/p2prc/p2prc-home-server/blob/main/docs/p2prc-home-server.pdf
-Python implementation: https://github.com/p2prc/p2prc-home-server/tree/main/python
+- P2PRC source code: https://github.com/Akilan1999/p2p-rendering-computation
+- Haskell bindings: https://github.com/Akilan1999/p2p-rendering-computation/tree/master/Bindings/Haskell
+- Haskell bindings documentation: https://p2prc.akilan.io/haskell/P2PRC.html
+- Documentation reference: https://github.com/p2prc/p2prc-home-server/blob/main/docs/p2prc-home-server.pdf
+- Python implementation: https://github.com/p2prc/p2prc-home-server/tree/main/python
 
