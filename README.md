@@ -1,4 +1,5 @@
-![p2prc-zurihac drawio (5)](https://github.com/user-attachments/assets/e3bddd7a-f6fd-43b2-a5e2-0afb9c947c13)
+![p2prc-zurihac drawio (6)](https://github.com/user-attachments/assets/a688e1f4-1449-43da-83d3-f56e34e13ebd)
+
 
 # Zurihac 2025 challenge:
 This repo will be only maintained for the duration of Zurihac (From the 7th to 9th of june).
